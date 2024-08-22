@@ -1,7 +1,7 @@
 <h1 align="center">🥸About Me :</h1>
 <h3 align="center">"I am a Passionate data analyst and machine learning enthusiast, dedicated to turning data into meaningful insights through Python, Power BI, SQL, and more."</h3>
 
-- I’m currently learning **"machine learning".**
+- I’m currently learning about **"machine learning".**
 
 <h3 align="left">💫Connect with me:</h3>
 <p align="left">
